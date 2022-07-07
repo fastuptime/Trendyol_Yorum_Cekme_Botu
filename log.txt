@@ -1,0 +1,516 @@
+2022-07-07 03:44:17 ➾ Program başladı. 
+2022-07-07 03:44:17 ➾ Yapımcı: Can 
+2022-07-07 03:44:17 ➾ GitHub: https://github.com/fastuptime 
+2022-07-07 03:44:17 ➾ Sepetinizde Ürün Bulunmamaktadır. 
+2022-07-07 03:45:43 ➾ Program başladı. 
+2022-07-07 03:45:43 ➾ Yapımcı: Can 
+2022-07-07 03:45:43 ➾ GitHub: https://github.com/fastuptime 
+2022-07-07 03:45:44 ➾ Sepetinizde Ürün Bulunmamaktadır. 
+2022-07-07 03:45:44 ➾ <span>10.000’lerce yeni ürünü ve sezon trendlerini büyük indirimlerle yakalamak için,</span> 
+2022-07-07 03:46:02 ➾ Program başladı. 
+2022-07-07 03:46:02 ➾ Yapımcı: Can 
+2022-07-07 03:46:02 ➾ GitHub: https://github.com/fastuptime 
+2022-07-07 03:46:03 ➾ Sepetinizde Ürün Bulunmamaktadır. 
+2022-07-07 03:46:03 ➾ <span>10.000’lerce yeni ürünü ve sezon trendlerini büyük indirimlerle yakalamak için,</span> 
+2022.07.07 03:56:53 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 03:56:53 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 03:56:53 ➾ Program başlatıldı
+2022.07.07 03:57:02 ➾ Bir hata oluştu.
+2022.07.07 03:57:07 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 03:57:07 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 03:57:07 ➾ Program başlatıldı
+2022.07.07 04:00:35 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:00:35 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:00:35 ➾ Program başlatıldı
+2022.07.07 04:00:47 ➾ Toplam 244 yorum var.
+2022.07.07 04:00:47 ➾ Bir hata oluştu.
+2022.07.07 04:01:24 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:01:24 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:01:24 ➾ Program başlatıldı
+2022.07.07 04:01:31 ➾ Toplam 244 yorum var.
+2022.07.07 04:01:31 ➾ Hata: must be str, not int
+2022.07.07 04:01:31 ➾ Program sonlandı
+2022.07.07 04:01:51 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:01:51 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:01:51 ➾ Program başlatıldı
+2022.07.07 04:01:58 ➾ Toplam 244 yorum var.
+2022.07.07 04:01:58 ➾ Hata: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[3]/div/div/div[2]/div/div[2]/div[3]/div[4]/div[0]/div[1]/div/p"}
+  (Session info: chrome=103.0.5060.114)
+
+2022.07.07 04:01:58 ➾ Program sonlandı
+2022.07.07 04:02:44 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:02:44 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:02:44 ➾ Program başlatıldı
+2022.07.07 04:02:52 ➾ Toplam 244 yorum var.
+2022.07.07 04:02:52 ➾ Yorum bulunamadı.
+2022.07.07 04:02:52 ➾ Yorum: ürünü hediye olarak aldım kumaşı çok iyi ve kaliteli
+2022.07.07 04:02:53 ➾ Yorum bulunamadı.
+2022.07.07 04:02:53 ➾ Yorum: çok iyi rahat herkese tavsiye ederim
+2022.07.07 04:02:54 ➾ Yorum bulunamadı.
+2022.07.07 04:02:54 ➾ Yorum: fena değil büyük beden alınmalı
+2022.07.07 04:02:55 ➾ Yorum bulunamadı.
+2022.07.07 04:02:55 ➾ Yorum: Kardeşim için aldık kumaşının dokusu kalitesi ve kesimi tam istedigi gibi oldu tavsiye ederiz.
+2022.07.07 04:02:56 ➾ Yorum bulunamadı.
+2022.07.07 04:02:56 ➾ Yorum: baskısı güzel ama penye hiç işe yaramaz .sırf baskı için 2 yıldız verdim.O DA YIKANINCA BOZULUR İSE KÖTÜ..beden xl sanki M BEDEN GİBİ. gibi.
+2022.07.07 04:02:57 ➾ Yorum bulunamadı.
+2022.07.07 04:02:57 ➾ Yorum: tam 10 puan efsane güzel tsort
+2022.07.07 04:02:58 ➾ Yorum bulunamadı.
+2022.07.07 04:02:58 ➾ Yorum: Kalitesi kötü tavsiye etmiyorum
+2022.07.07 04:02:59 ➾ Yorum bulunamadı.
+2022.07.07 04:02:59 ➾ Yorum: Kalitesi çok iyi
+2022.07.07 04:03:00 ➾ Yorum bulunamadı.
+2022.07.07 04:03:00 ➾ Yorum: aşırı güzel beğendim
+2022.07.07 04:03:01 ➾ Yorum bulunamadı.
+2022.07.07 04:03:01 ➾ Yorum: Tek kelimeyle harika bayıldım 😍
+2022.07.07 04:03:02 ➾ Yorum bulunamadı.
+2022.07.07 04:03:02 ➾ Yorum: ürün güzel kaliteli
+2022.07.07 04:03:03 ➾ Yorum bulunamadı.
+2022.07.07 04:03:03 ➾ Yorum: Hiç beğenmedim
+2022.07.07 04:03:04 ➾ Yorum bulunamadı.
+2022.07.07 04:03:04 ➾ Yorum: kalitesi hiç güzel değil pişman oldum
+2022.07.07 04:03:05 ➾ Yorum bulunamadı.
+2022.07.07 04:03:05 ➾ Yorum: almayın pişmanlık resmen
+2022.07.07 04:03:06 ➾ Yorum bulunamadı.
+2022.07.07 04:03:06 ➾ Yorum: tek kelime ile harika
+2022.07.07 04:03:07 ➾ Yorum bulunamadı.
+2022.07.07 04:03:07 ➾ Yorum: çok kalitesiz
+2022.07.07 04:03:08 ➾ Yorum bulunamadı.
+2022.07.07 04:03:08 ➾ Yorum: cok guzel bir urun
+2022.07.07 04:03:09 ➾ Yorum bulunamadı.
+2022.07.07 04:03:10 ➾ Yorum: cok güzel almanızı tavsiye ederim
+2022.07.07 04:03:11 ➾ Yorum bulunamadı.
+2022.07.07 04:03:11 ➾ Yorum: tek kelime ile berbat bir ürün
+2022.07.07 04:03:12 ➾ Yorum bulunamadı.
+2022.07.07 04:03:12 ➾ Yorum: baskısı kaliteli gözüküyor
+2022.07.07 04:03:13 ➾ Yorum bulunamadı.
+2022.07.07 04:03:13 ➾ Yorum: kaliteli guzel
+2022.07.07 04:03:14 ➾ Yorum bulunamadı.
+2022.07.07 04:03:14 ➾ Yorum: Çok beğendim ürün güzeldi
+2022.07.07 04:03:15 ➾ Yorum bulunamadı.
+2022.07.07 04:03:15 ➾ Yorum: gayet güzel teşekkürler 🤞💫
+2022.07.07 04:03:16 ➾ Yorum bulunamadı.
+2022.07.07 04:03:16 ➾ Yorum: güzel ürün tavsiye ederim
+2022.07.07 04:03:17 ➾ Yorum bulunamadı.
+2022.07.07 04:03:17 ➾ Yorum: iyi tavsiye ederim
+2022.07.07 04:03:18 ➾ Yorum bulunamadı.
+2022.07.07 04:03:18 ➾ Yorum: tavsiye ederim güzel bir ürün
+2022.07.07 04:03:19 ➾ Yorum bulunamadı.
+2022.07.07 04:03:19 ➾ Yorum: gayet güzel ürün, teşekkürler
+2022.07.07 04:03:20 ➾ Yorum bulunamadı.
+2022.07.07 04:03:20 ➾ Yorum: Güzel..Beğendim..😊👍
+2022.07.07 04:03:21 ➾ Yorum bulunamadı.
+2022.07.07 04:03:21 ➾ Yorum: cok begendim👍
+2022.07.07 04:03:22 ➾ Yorum bulunamadı.
+2022.07.07 04:03:22 ➾ Yorum: Penye berbat
+2022.07.07 04:03:23 ➾ Yorum bulunamadı.
+2022.07.07 04:03:23 ➾ Yorum: teşekkürler
+2022.07.07 04:03:24 ➾ Yorum bulunamadı.
+2022.07.07 04:03:24 ➾ Yorum: çok sevdim
+2022.07.07 04:03:25 ➾ Yorum bulunamadı.
+2022.07.07 04:03:25 ➾ Yorum: çok guzel çok beğendim
+2022.07.07 04:03:26 ➾ Yorum bulunamadı.
+2022.07.07 04:03:26 ➾ Yorum: yeğenim için aldim severek giyiyor super bir urun
+2022.07.07 04:03:27 ➾ Yorum bulunamadı.
+2022.07.07 04:03:27 ➾ Yorum: Oğluma aldım çok beğendi tavsiye ediyorum
+2022.07.07 04:03:27 ➾ Yorum bulunamadı.
+2022.07.07 04:03:27 ➾ Yorum bulunamadı.
+2022.07.07 04:03:29 ➾ Yorum bulunamadı.
+2022.07.07 04:03:31 ➾ Yorum bulunamadı.
+2022.07.07 04:03:40 ➾ Yorum bulunamadı.
+2022.07.07 04:03:42 ➾ Yorum bulunamadı.
+2022.07.07 04:03:50 ➾ Yorum bulunamadı.
+2022.07.07 04:03:58 ➾ Yorum bulunamadı.
+2022.07.07 04:04:06 ➾ Yorum bulunamadı.
+2022.07.07 04:04:14 ➾ Yorum bulunamadı.
+2022.07.07 04:04:22 ➾ Yorum bulunamadı.
+2022.07.07 04:04:30 ➾ Yorum bulunamadı.
+2022.07.07 04:04:39 ➾ Yorum bulunamadı.
+2022.07.07 04:04:47 ➾ Yorum bulunamadı.
+2022.07.07 04:04:55 ➾ Yorum bulunamadı.
+2022.07.07 04:05:03 ➾ Yorum bulunamadı.
+2022.07.07 04:05:11 ➾ Yorum bulunamadı.
+2022.07.07 04:05:19 ➾ Yorum bulunamadı.
+2022.07.07 04:05:27 ➾ Yorum bulunamadı.
+2022.07.07 04:05:36 ➾ Yorum bulunamadı.
+2022.07.07 04:05:44 ➾ Yorum bulunamadı.
+2022.07.07 04:05:52 ➾ Yorum bulunamadı.
+2022.07.07 04:06:00 ➾ Yorum bulunamadı.
+2022.07.07 04:06:08 ➾ Yorum bulunamadı.
+2022.07.07 04:06:16 ➾ Yorum bulunamadı.
+2022.07.07 04:06:25 ➾ Yorum bulunamadı.
+2022.07.07 04:06:33 ➾ Yorum bulunamadı.
+2022.07.07 04:06:41 ➾ Yorum bulunamadı.
+2022.07.07 04:06:49 ➾ Yorum bulunamadı.
+2022.07.07 04:06:57 ➾ Yorum bulunamadı.
+2022.07.07 04:07:06 ➾ Yorum bulunamadı.
+2022.07.07 04:07:14 ➾ Yorum bulunamadı.
+2022.07.07 04:07:22 ➾ Yorum bulunamadı.
+2022.07.07 04:07:30 ➾ Yorum bulunamadı.
+2022.07.07 04:07:38 ➾ Yorum bulunamadı.
+2022.07.07 04:07:40 ➾ Yorum bulunamadı.
+2022.07.07 04:07:42 ➾ Yorum bulunamadı.
+2022.07.07 04:07:53 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:07:53 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:07:53 ➾ Program başlatıldı
+2022.07.07 04:08:00 ➾ Toplam 244 yorum var.
+2022.07.07 04:08:23 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:08:23 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:08:23 ➾ Program başlatıldı
+2022.07.07 04:08:36 ➾ Toplam 244 yorum var.
+2022.07.07 04:09:02 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:09:02 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:09:02 ➾ Program başlatıldı
+2022.07.07 04:09:09 ➾ Toplam 244 yorum var.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:09 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:10 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:11 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:12 ➾ Yorum yok.
+2022.07.07 04:09:15 ➾ Yorum yok.
+2022.07.07 04:10:34 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:10:34 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:10:34 ➾ Program başlatıldı
+2022.07.07 04:10:41 ➾ Toplam 244 yorum var.
+2022.07.07 04:10:41 ➾ Yorum: ürünü hediye olarak aldım kumaşı çok iyi ve kaliteli
+2022.07.07 04:10:41 ➾ Yorum: çok iyi rahat herkese tavsiye ederim
+2022.07.07 04:10:42 ➾ Yorum: fena değil büyük beden alınmalı
+2022.07.07 04:10:42 ➾ Yorum: Kardeşim için aldık kumaşının dokusu kalitesi ve kesimi tam istedigi gibi oldu tavsiye ederiz.
+2022.07.07 04:10:43 ➾ Yorum: baskısı güzel ama penye hiç işe yaramaz .sırf baskı için 2 yıldız verdim.O DA YIKANINCA BOZULUR İSE KÖTÜ..beden xl sanki M BEDEN GİBİ. gibi.
+2022.07.07 04:10:44 ➾ Yorum: tam 10 puan efsane güzel tsort
+2022.07.07 04:10:44 ➾ Yorum: Kalitesi kötü tavsiye etmiyorum
+2022.07.07 04:10:45 ➾ Yorum: Kalitesi çok iyi
+2022.07.07 04:10:46 ➾ Yorum: aşırı güzel beğendim
+2022.07.07 04:10:46 ➾ Yorum: Tek kelimeyle harika bayıldım 😍
+2022.07.07 04:10:47 ➾ Yorum: ürün güzel kaliteli
+2022.07.07 04:10:47 ➾ Yorum: Hiç beğenmedim
+2022.07.07 04:10:48 ➾ Yorum: kalitesi hiç güzel değil pişman oldum
+2022.07.07 04:10:48 ➾ Yorum: almayın pişmanlık resmen
+2022.07.07 04:10:49 ➾ Yorum: tek kelime ile harika
+2022.07.07 04:10:49 ➾ Yorum: çok kalitesiz
+2022.07.07 04:10:50 ➾ Yorum: cok guzel bir urun
+2022.07.07 04:10:51 ➾ Yorum: cok güzel almanızı tavsiye ederim
+2022.07.07 04:10:51 ➾ Yorum: tek kelime ile berbat bir ürün
+2022.07.07 04:10:52 ➾ Yorum: baskısı kaliteli gözüküyor
+2022.07.07 04:10:52 ➾ Yorum: kaliteli guzel
+2022.07.07 04:10:53 ➾ Yorum: Çok beğendim ürün güzeldi
+2022.07.07 04:10:53 ➾ Yorum: gayet güzel teşekkürler 🤞💫
+2022.07.07 04:10:54 ➾ Yorum: güzel ürün tavsiye ederim
+2022.07.07 04:10:54 ➾ Yorum: iyi tavsiye ederim
+2022.07.07 04:10:55 ➾ Yorum: tavsiye ederim güzel bir ürün
+2022.07.07 04:10:55 ➾ Yorum: gayet güzel ürün, teşekkürler
+2022.07.07 04:10:56 ➾ Yorum: Güzel..Beğendim..😊👍
+2022.07.07 04:10:57 ➾ Yorum: cok begendim👍
+2022.07.07 04:10:57 ➾ Yorum: Penye berbat
+2022.07.07 04:10:58 ➾ Yorum: teşekkürler
+2022.07.07 04:10:58 ➾ Yorum: çok sevdim
+2022.07.07 04:10:59 ➾ Yorum: çok guzel çok beğendim
+2022.07.07 04:10:59 ➾ Yorum: yeğenim için aldim severek giyiyor super bir urun
+2022.07.07 04:11:00 ➾ Yorum: Oğluma aldım çok beğendi tavsiye ediyorum
+2022.07.07 04:11:00 ➾ Yorum: kardeşime aldim severek giyiyor kaliteli
+2022.07.07 04:11:01 ➾ Yorum: Güzel. Rahat
+2022.07.07 04:11:01 ➾ Yorum: çok iyi ürün, kaliteli, teşekkür ederim
+2022.07.07 04:11:02 ➾ Yorum: Büyendim karqo gecikmedi duruşu gozel , tam beden
+2022.07.07 04:11:03 ➾ Yorum: ürün güzel geldi
+2022.07.07 04:11:03 ➾ Yorum: acayip güzel tavsiye ederim kumaşı felan efsane
+2022.07.07 04:11:04 ➾ Yorum: arkadaki desen biraz kalitesiz duruyo pek beğenmedim eger alırsanız bedenimizin 1 bugunu alabilrisiniz
+2022.07.07 04:11:04 ➾ Yorum: yorumlara aldanıp aldım asla tavsiye etmiyorum kumaşı çok kötü yünlü gibi pişiriyo resmen insanı SAKINNN ALMAYIIINNNN!!!!!!
+2022.07.07 04:11:05 ➾ Yorum: efsane ve kumaşı çok güzel men l beden giyirdum xl aldım bennce 1 beden büyük alınmalı ben çok memnunum severek giyiyorum👍
+2022.07.07 04:11:05 ➾ Yorum: kumaşını sevmedim. xl aldığım halde gözüme küçük duruyor
+2022.07.07 04:11:06 ➾ Yorum: Çok kaliteli birşey beklemeyin tek yıkamada bozulacak cinsten iade etmekle uğraşmadım.
+2022.07.07 04:11:06 ➾ Yorum: güzel beğendim umarım çabuk solmaz
+2022.07.07 04:11:07 ➾ Yorum: tişört hiç hoşuma gitmedi kumaş çok kötü
+2022.07.07 04:11:07 ➾ Yorum: hem baskısı hem kumasi çok güzel gorundugu gibi geldi beğendim tavsiye ederim
+2022.07.07 04:11:08 ➾ Yorum: fiyatına göre iyi dört puan veriyorum
+2022.07.07 04:11:09 ➾ Yorum: Ürün çokta kaliteli değil fiyat performans ehhhh işte
+2022.07.07 04:11:09 ➾ Yorum: bu ürüne nasıl iyi dersiniz aklım almıyor yorumlara bakarak aldım ama beş para etmez yıkadığım gibi çekti zaten çok inceydi yer bezi yapsam iyi şuan almayın paranıza yazık
+2022.07.07 04:11:10 ➾ Yorum: siparişimi aldım ürün güzel . yalnız . XXL beden olmasına rağmen bol gelmedi . xl bedeni gibi geldi ama olsun t-shirt güzel harika 10/9
+2022.07.07 04:11:10 ➾ Yorum: bedeninizi alın güzel bir tişört
+2022.07.07 04:11:11 ➾ Yorum: güzel 1 beden büyük alın çok hoş duruyor
+2022.07.07 04:11:11 ➾ Yorum: kendi bedenimden Bir beden büyük istedim ancak oldu, owersize isteyenler 2 beden büyük sipariş etmeli
+2022.07.07 04:11:12 ➾ Yorum: Herkes kendi bedenini alsin
+2022.07.07 04:11:12 ➾ Yorum: çok hoş mutlaka kendi bedeninizi alın
+2022.07.07 04:11:13 ➾ Yorum: Baskısı güzel penye kalitesi fena değil ama bedeni büyük
+2022.07.07 04:11:13 ➾ Yorum: bir beden büyük alın
+2022.07.07 04:11:14 ➾ Yorum: ürün güzel ama büyük beden alın
+2022.07.07 04:11:15 ➾ Yorum: biraz daha kaliteli olabilirdi
+2022.07.07 04:11:15 ➾ Yorum: Çok güzel.
+2022.07.07 04:11:16 ➾ Yorum: Çok güzel çok beğendim
+2022.07.07 04:11:16 ➾ Yorum: gayette guzeeel
+2022.07.07 04:11:17 ➾ Yorum: Çok beğendim tavsiye ederim
+2022.07.07 04:11:17 ➾ Yorum: oversize olması için 1 beden büyük almanızı öneririm kumaş kalistesi güzel değil baskısı ideal indirimden alınabilir
+2022.07.07 04:11:18 ➾ Yorum: arka desene aşık olup aldım harima tişört tayt kot spor giyim heryerde giyilecek bı tişört tavsiye ederim 😊
+2022.07.07 04:11:18 ➾ Yorum: Orta kalite
+2022.07.07 04:11:19 ➾ Yorum: göründüğü gibi salaş değil ben çok beğenmedim küçük geldi
+2022.07.07 04:11:19 ➾ Yorum: Sakın almayın. O kadar kötü. Tek kullanımlık. O malzemeye yapılan baskıya yazık
+2022.07.07 04:11:20 ➾ Yorum: KUMAŞ KÖTÜ
+2022.07.07 04:11:21 ➾ Yorum: çok güzel çok beğendim kumaşı harika desenide
+2022.07.07 04:11:21 ➾ Yorum: Tül gibi incecik. Toz bezi yapmazsınız bunu
+2022.07.07 04:11:22 ➾ Yorum: kumaşı çok kalitesiz
+2022.07.07 04:11:22 ➾ Yorum: Kumaş kalitesi gerçekten çok iyi. Memnunum.
+2022.07.07 04:11:23 ➾ Yorum: kumaş çok kötü
+2022.07.07 04:11:23 ➾ Yorum: kumaşı çok güzel değil di yinede giyilir
+2022.07.07 04:11:24 ➾ Yorum: Kumaşı aşırı kötü ve kalitesiz
+2022.07.07 04:11:24 ➾ Yorum: Kumaş kalitesi kötü böyle ürünleri lütfen satmayın insanlar zarar görür. Kolaylıklar dilerim.
+2022.07.07 04:11:25 ➾ Yorum: kumaşı çok kötü
+2022.07.07 04:11:25 ➾ Yorum: ürün kumaş olarak gayet iyi f/p ürünü çabuk kargolandı.
+2022.07.07 04:11:26 ➾ Yorum: tişört güzel tabiki, oversize istedim küçük geldi. onu iade edicem. bedeninizin bir tık üstünü almanız daha iyi olur
+2022.07.07 04:11:27 ➾ Yorum: Mükemelllll❤️🌸
+2022.07.07 04:11:27 ➾ Yorum: bekledigimden ğüzeldi kalite ve ekonomik
+2022.07.07 04:11:28 ➾ Yorum: fiyata gore iyi urun
+2022.07.07 04:11:28 ➾ Yorum: fiyatına göre iyi
+2022.07.07 04:11:29 ➾ Yorum: Fiyatını asla hak etmiyor
+2022.07.07 04:11:29 ➾ Yorum: Güzel bir ürün. Tavsiye ederim.
+2022.07.07 04:11:30 ➾ Yorum: çok beğendim harika evdeki herkes beğendi
+2022.07.07 04:11:30 ➾ Yorum: tavsiye ederim
+2022.07.07 04:11:31 ➾ Yorum: kalitesi çok kötü sadece arkasında desen var onu sade aldığıma pişman oldum
+2022.07.07 04:11:31 ➾ Yorum: güzel bı t-shirt sadece kumaşı çok sevemedim
+2022.07.07 04:11:32 ➾ Yorum: kumaşı çok kötü
+2022.07.07 04:11:33 ➾ Yorum: kumaşı cok ıyı değil
+2022.07.07 04:11:33 ➾ Yorum: Güzel büyük almıştım istediğim gibi oldu 😇
+2022.07.07 04:11:34 ➾ Yorum: idare eder çok kaliteli değil
+2022.07.07 04:11:34 ➾ Yorum: çox bəyəndim
+2022.07.07 04:11:35 ➾ Yorum: Bir beden büyük alın kalıbı dar çok güzel yalnız
+2022.07.07 04:11:35 ➾ Yorum: fotografki gibi durmasını istiyorsanız 2beden büyük alabilirsiniz. gayet güzel :)
+2022.07.07 04:11:36 ➾ Yorum: 183boy 70kg large aldım dar geldi üstüm 1 beden büyük alın hatta 2
+2022.07.07 04:11:36 ➾ Yorum: cok rahat ve güzel
+2022.07.07 04:11:37 ➾ Yorum: ürünün yeri güzel yazlık bir kumaşı var
+2022.07.07 04:11:37 ➾ Yorum: Fiyatına göre kalite:(
+2022.07.07 04:11:38 ➾ Yorum: fiyat performans ürünü
+2022.07.07 04:11:39 ➾ Yorum: ürün güzel
+2022.07.07 04:11:39 ➾ Yorum: kaliteli bi ürün değildi iç gösteriyodu
+2022.07.07 04:11:40 ➾ Yorum: almayın sakın çok dandik L istedik xxl göndermişler
+2022.07.07 04:11:40 ➾ Yorum: rengi ve kalitesi bu fiyata uygun bence
+2022.07.07 04:11:41 ➾ Yorum: Kızımın istediği üründü. Huzlı teslimatla zamanında elimize ulaştı. Teşekkürler...
+2022.07.07 04:11:41 ➾ Yorum: Berbat çok kötü toz bezi dahi olmaz
+2022.07.07 04:11:42 ➾ Yorum: Urun kalite olarak fena degil , begendim . Yalniz tablodaki bedenler uymuyor . 1.83 boy 105 kg icin xxl beden demisler ama olmuyor urun kalibi dar . Begendigim icin iade etmedim , oglum hafif bol oversize olarak kullaniyor .
+2022.07.07 04:11:42 ➾ Yorum: s-m soylemistim xxl geldi
+2022.07.07 04:11:43 ➾ Yorum: kumaşını hiç beğenmedim içini gösteriyor bir yıkamada daha kötü olacak gibi
+2022.07.07 04:11:43 ➾ Yorum: Nasıl oversize bunlar xxl aldım olmuyo normal krsim t short aldığımda l beden oluyor
+2022.07.07 04:11:44 ➾ Yorum: tam siyah değildi soldu yıkadım soldu
+2022.07.07 04:11:45 ➾ Yorum: Beklediğim gibi gelmedi Malesef ilk yıkamamda çekti xl oldu size m beden 30 derecede yıkadım birde almayın derim
+2022.07.07 04:11:45 ➾ Yorum: xxl numara istemiwdim malesef s-m gönderdiler
+2022.07.07 04:11:46 ➾ Yorum: kargo elime ulaşmadı alınmaya değmez
+2022.07.07 04:11:46 ➾ Yorum: oğlum çok beğendiği için sipariş ettik ama hiç güzel değil paranıza yazık etmeyin
+2022.07.07 04:11:47 ➾ Yorum: Ürün fiyatına göre gayet iyi.
+2022.07.07 04:11:47 ➾ Yorum: beğendim fiyatına göre kaliteli
+2022.07.07 04:18:25 ➾ Bu program Can Tarafından Yapılmıştır.
+2022.07.07 04:18:25 ➾ https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.
+2022.07.07 04:18:25 ➾ Program başlatıldı
