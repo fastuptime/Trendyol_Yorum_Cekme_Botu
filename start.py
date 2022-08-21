@@ -14,7 +14,7 @@ log('Bu program Can Tarafından Yapılmıştır.')
 log('https://fastuptime.com ve https://speedsmm.com üzerinden bize ulaşabilirsiniz.')
 log('Program başlatıldı')
 
-urun_url = 'https://www.trendyol.com/trendypassion/sirt-pusula-baskili-tshirt-p-260271556' # Ürün URL NOT SONUNA / KOYMAYIN
+urun_url =  input("Ürün Linki Sonuna / Koymayın: ") #'https://www.trendyol.com/trendypassion/sirt-pusula-baskili-tshirt-p-260271556'  Ürün URL NOT SONUNA / KOYMAYIN
 
 try:
     driver.get(urun_url + "/yorumlar")
